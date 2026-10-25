@@ -1,0 +1,23 @@
+{
+  "marca_id": "seres-multidimensionais",
+  "nome": "Seres Multidimensionais",
+  "instagram_handle": "@seres_multidimensionais",
+  "estado": "conteudo_existente_preservado",
+  "conteudo_legado": "../../conteudo/topo-de-funil",
+  "identidade_fonte": "../../conteudo/topo-de-funil/identidade-visual.md",
+  "canais": {
+    "instagram": {
+      "handle": "@seres_multidimensionais",
+      "destino_confirmado_por_artefatos": true
+    },
+    "facebook": {
+      "url": null,
+      "estado": "a_identificar"
+    },
+    "tiktok": {
+      "url": null,
+      "estado": "a_confirmar"
+    }
+  },
+  "nota": "Os sete carrosséis existentes permanecem desta marca por decisão de Ray."
+}

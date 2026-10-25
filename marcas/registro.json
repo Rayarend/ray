@@ -1,0 +1,17 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-10-25",
+  "marcas": [
+    {
+      "marca_id": "xama-pena-azul-do-amor",
+      "nome": "Xamã Pena Azul do Amor",
+      "arquivo": "xama-pena-azul-do-amor/marca.json"
+    },
+    {
+      "marca_id": "seres-multidimensionais",
+      "nome": "Seres Multidimensionais",
+      "arquivo": "seres-multidimensionais/marca.json"
+    }
+  ],
+  "regra": "Novos perfis precisam de marca_id e destinos confirmados. Aprovação não é compartilhada automaticamente entre marcas."
+}

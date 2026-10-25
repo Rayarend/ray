@@ -1,0 +1,17 @@
+# Xamã Pena Azul do Amor
+
+**Marca de Ray Arend · Instagram @xama.pena.azul.do.amor · Facebook da marca.** TikTok será criado; a conexão YouTube detectada precisa ser identificada.
+
+| Material | Arquivo |
+|---|---|
+| Canais e estados | [marca.json](marca.json) |
+| Plano de 25/10 a 30/11 | [PLANEJAMENTO.md](planejamento/2026-11/PLANEJAMENTO.md) |
+| Calendário de 37 dias | [CALENDARIO.csv](planejamento/2026-11/CALENDARIO.csv) |
+| Métricas e fontes | [FONTES.json](planejamento/2026-11/FONTES.json) |
+| Brand Kit preparado | [BRAND-KIT.md](brand-kit/BRAND-KIT.md) |
+| Cores, fontes, sombras | [tokens.json](brand-kit/tokens.json) |
+| Aplicação futura no Canva | [CANVA-ESTRUTURA.md](brand-kit/CANVA-ESTRUTURA.md) |
+
+São **16 Reels e 11 carrosséis**, com Stories diários. Vídeos serão preparados no Remotion. Nenhum material foi agendado/publicado por esta entrega. Condições comerciais precisam da confirmação atual de Ray.
+
+Toda peça identifica marca e ID, como XN-01. A página Facebook, o canal YouTube e o futuro TikTok exigem conferência do destino antes de publicar. Não distribuir automaticamente estas peças nas outras contas de Ray.

@@ -1,0 +1,44 @@
+{
+  "marca_id": "xama-pena-azul-do-amor",
+  "nome": "Xamã Pena Azul do Amor",
+  "responsavel": "Ray Arend",
+  "idioma": "pt-BR",
+  "fuso": "America/Sao_Paulo",
+  "estado_editorial": "rascunho",
+  "canais": {
+    "instagram": {
+      "handle": "@xama.pena.azul.do.amor",
+      "url": "https://www.instagram.com/xama.pena.azul.do.amor/",
+      "estado": "conectado_metricool",
+      "identidade_confirmada": true
+    },
+    "facebook": {
+      "marca_destino": "Xamã Pena Azul do Amor",
+      "url": null,
+      "estado": "conectado_metricool_identidade_da_pagina_pendente",
+      "identidade_confirmada": false
+    },
+    "youtube": {
+      "url": null,
+      "estado": "conexao_detectada_identificar_canal",
+      "identidade_confirmada": false
+    },
+    "tiktok": {
+      "handle": null,
+      "url": null,
+      "estado": "a_criar",
+      "identidade_confirmada": false
+    }
+  },
+  "ofertas": [
+    "Sessão de Cortes Energéticos / Divórcio Energético",
+    "Chamado da Alma Gêmea"
+  ],
+  "arquivos": {
+    "planejamento": "planejamento/2026-11/PLANEJAMENTO.md",
+    "calendario": "planejamento/2026-11/CALENDARIO.csv",
+    "metricas": "planejamento/2026-11/FONTES.json",
+    "brand_kit": "brand-kit/BRAND-KIT.md",
+    "tokens": "brand-kit/tokens.json"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "status",
+    "resumo",
+    "arquivos_alterados",
+    "comandos_rodados",
+    "pendencias"
+  ],
+  "properties": {
+    "status": {
+      "type": "string",
+      "enum": [
+        "done",
+        "partial",
+        "blocked"
+      ]
+    },
+    "resumo": {
+      "type": "string"
+    },
+    "arquivos_alterados": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "comandos_rodados": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "pendencias": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
