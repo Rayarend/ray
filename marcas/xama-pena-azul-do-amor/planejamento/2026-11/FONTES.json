@@ -1,0 +1,544 @@
+{
+  "versao": 1,
+  "data_consulta": "2026-10-25",
+  "fuso": "America/Sao_Paulo",
+  "periodo_planejado": {
+    "inicio": "2026-10-25",
+    "fim": "2026-11-30"
+  },
+  "autorizacao_arquivos": {
+    "data": "2026-10-25",
+    "origem": "Usuário autorizou explicitamente estes três arquivos, como exceção ao AGENTS.md.",
+    "arquivos": [
+      "PLANEJAMENTO.md",
+      "CALENDARIO.csv",
+      "FONTES.json"
+    ]
+  },
+  "escopo": "Planejamento e leitura. Nenhuma publicação, criação de canal, agendamento ou alteração de produção.",
+  "metricool": {
+    "perfil": "@xama.pena.azul.do.amor",
+    "metodo": "MCP autenticado; coleta delegada por duas sessões Codex CLI efêmeras e somente leitura. Credenciais não exportadas.",
+    "ferramentas": [
+      "getBrandSettings",
+      "getAnalyticsAvailableMetrics",
+      "getAnalyticsDataByMetrics",
+      "getScheduledPosts"
+    ],
+    "redes": {
+      "instagram": "conectado e handle confirmado",
+      "facebook": "conectado; nome da página não retornado",
+      "youtube": "conectado; identidade do canal não retornada",
+      "tiktok": "não aparece conectado"
+    },
+    "agenda": {
+      "inicio": "2026-10-25T00:00:00",
+      "fim": "2026-11-30T23:59:59",
+      "posts_retornados": 0,
+      "limite": "Somente agenda Metricool; não confirma ausência de filas externas."
+    },
+    "seguidores": {
+      "data": "2026-10-24",
+      "valor": 43230,
+      "comparativo": null,
+      "motivo": "24/09 retornou zero inconsistente."
+    },
+    "comparativo": [
+      {
+        "inicio": "2026-08-26",
+        "fim": "2026-09-24",
+        "reels": 25,
+        "views": 140872,
+        "mediana_views": 2774,
+        "interacoes": 7861,
+        "salvamentos": 865,
+        "compartilhamentos": 1107,
+        "top5_share_views_pct": 59.85
+      },
+      {
+        "inicio": "2026-09-25",
+        "fim": "2026-10-24",
+        "reels": 28,
+        "views": 185499,
+        "mediana_views": 2204,
+        "interacoes": 11776,
+        "salvamentos": 894,
+        "compartilhamentos": 1577,
+        "top5_share_views_pct": 70.01762812737535
+      }
+    ],
+    "interpretacao": "Coortes por data de publicação, métricas aparentemente acumuladas até a consulta. Não são necessariamente views consumidas no período. Idade dos posts não controlada.",
+    "posts_atual": [
+      {
+        "data": "2026-10-24",
+        "codigo": "De4tDmiC6DS",
+        "url": "https://www.instagram.com/reel/De4tDmiC6DS/",
+        "views": 519,
+        "alcance": 371,
+        "interacoes": 134,
+        "saves": 13,
+        "shares": 63,
+        "share_rate_pct": 16.9811320754717,
+        "save_rate_pct": 3.504043126684636
+      },
+      {
+        "data": "2026-10-23",
+        "codigo": "De18_2riJXK",
+        "url": "https://www.instagram.com/reel/De18_2riJXK/",
+        "views": 444,
+        "alcance": 324,
+        "interacoes": 45,
+        "saves": 5,
+        "shares": 4,
+        "share_rate_pct": 1.2345679012345678,
+        "save_rate_pct": 1.5432098765432098
+      },
+      {
+        "data": "2026-10-22",
+        "codigo": "Dezb4Idi2as",
+        "url": "https://www.instagram.com/reel/Dezb4Idi2as/",
+        "views": 488,
+        "alcance": 373,
+        "interacoes": 41,
+        "saves": 6,
+        "shares": 3,
+        "share_rate_pct": 0.8042895442359249,
+        "save_rate_pct": 1.6085790884718498
+      },
+      {
+        "data": "2026-10-21",
+        "codigo": "DewzzgRCBCg",
+        "url": "https://www.instagram.com/reel/DewzzgRCBCg/",
+        "views": 2543,
+        "alcance": 1746,
+        "interacoes": 251,
+        "saves": 6,
+        "shares": 70,
+        "share_rate_pct": 4.009163802978236,
+        "save_rate_pct": 0.3436426116838488
+      },
+      {
+        "data": "2026-10-20",
+        "codigo": "Deuc975COUT",
+        "url": "https://www.instagram.com/reel/Deuc975COUT/",
+        "views": 1865,
+        "alcance": 1100,
+        "interacoes": 44,
+        "saves": 7,
+        "shares": 3,
+        "share_rate_pct": 0.2727272727272727,
+        "save_rate_pct": 0.6363636363636364
+      },
+      {
+        "data": "2026-10-19",
+        "codigo": "DerzK93C6IW",
+        "url": "https://www.instagram.com/reel/DerzK93C6IW/",
+        "views": 4200,
+        "alcance": 2504,
+        "interacoes": 122,
+        "saves": 20,
+        "shares": 8,
+        "share_rate_pct": 0.3194888178913738,
+        "save_rate_pct": 0.7987220447284346
+      },
+      {
+        "data": "2026-10-18",
+        "codigo": "DepfWyLCmip",
+        "url": "https://www.instagram.com/reel/DepfWyLCmip/",
+        "views": 547,
+        "alcance": 434,
+        "interacoes": 44,
+        "saves": 6,
+        "shares": 11,
+        "share_rate_pct": 2.5345622119815667,
+        "save_rate_pct": 1.3824884792626728
+      },
+      {
+        "data": "2026-10-17",
+        "codigo": "DemmLuziYx9",
+        "url": "https://www.instagram.com/reel/DemmLuziYx9/",
+        "views": 824,
+        "alcance": 659,
+        "interacoes": 40,
+        "saves": 7,
+        "shares": 15,
+        "share_rate_pct": 2.276176024279211,
+        "save_rate_pct": 1.062215477996965
+      },
+      {
+        "data": "2026-10-17",
+        "codigo": "DelK_3iiyrb",
+        "url": "https://www.instagram.com/reel/DelK_3iiyrb/",
+        "views": 707,
+        "alcance": 488,
+        "interacoes": 26,
+        "saves": 5,
+        "shares": 2,
+        "share_rate_pct": 0.4098360655737705,
+        "save_rate_pct": 1.0245901639344261
+      },
+      {
+        "data": "2026-10-15",
+        "codigo": "Deh2UBBCJ8o",
+        "url": "https://www.instagram.com/reel/Deh2UBBCJ8o/",
+        "views": 653,
+        "alcance": 450,
+        "interacoes": 30,
+        "saves": 4,
+        "shares": 1,
+        "share_rate_pct": 0.2222222222222222,
+        "save_rate_pct": 0.8888888888888888
+      },
+      {
+        "data": "2026-10-14",
+        "codigo": "DeetSLOC8pC",
+        "url": "https://www.instagram.com/reel/DeetSLOC8pC/",
+        "views": 4539,
+        "alcance": 2753,
+        "interacoes": 131,
+        "saves": 12,
+        "shares": 38,
+        "share_rate_pct": 1.3803123864874682,
+        "save_rate_pct": 0.43588812204867416
+      },
+      {
+        "data": "2026-10-13",
+        "codigo": "Dec31dDiZOX",
+        "url": "https://www.instagram.com/reel/Dec31dDiZOX/",
+        "views": 949,
+        "alcance": 713,
+        "interacoes": 109,
+        "saves": 15,
+        "shares": 31,
+        "share_rate_pct": 4.3478260869565215,
+        "save_rate_pct": 2.1037868162692845
+      },
+      {
+        "data": "2026-10-12",
+        "codigo": "DeZyPblCu4v",
+        "url": "https://www.instagram.com/reel/DeZyPblCu4v/",
+        "views": 19643,
+        "alcance": 15006,
+        "interacoes": 988,
+        "saves": 156,
+        "shares": 142,
+        "share_rate_pct": 0.9462881514061042,
+        "save_rate_pct": 1.0395841663334666
+      },
+      {
+        "data": "2026-10-11",
+        "codigo": "DeWw37pCJym",
+        "url": "https://www.instagram.com/reel/DeWw37pCJym/",
+        "views": 659,
+        "alcance": 522,
+        "interacoes": 36,
+        "saves": 10,
+        "shares": 5,
+        "share_rate_pct": 0.9578544061302682,
+        "save_rate_pct": 1.9157088122605364
+      },
+      {
+        "data": "2026-10-10",
+        "codigo": "DeS53VhC7YW",
+        "url": "https://www.instagram.com/reel/DeS53VhC7YW/",
+        "views": 5118,
+        "alcance": 3601,
+        "interacoes": 147,
+        "saves": 13,
+        "shares": 11,
+        "share_rate_pct": 0.30547070258261594,
+        "save_rate_pct": 0.36101083032490977
+      },
+      {
+        "data": "2026-10-08",
+        "codigo": "DePQ4Afig-x",
+        "url": "https://www.instagram.com/reel/DePQ4Afig-x/",
+        "views": 21623,
+        "alcance": 18579,
+        "interacoes": 1665,
+        "saves": 133,
+        "shares": 331,
+        "share_rate_pct": 1.781581355293611,
+        "save_rate_pct": 0.7158619947252274
+      },
+      {
+        "data": "2026-10-07",
+        "codigo": "DeNX3TYiU4E",
+        "url": "https://www.instagram.com/reel/DeNX3TYiU4E/",
+        "views": 24378,
+        "alcance": 16977,
+        "interacoes": 1568,
+        "saves": 106,
+        "shares": 161,
+        "share_rate_pct": 0.9483418743005242,
+        "save_rate_pct": 0.6243741532661836
+      },
+      {
+        "data": "2026-10-06",
+        "codigo": "DeKINpMCcHr",
+        "url": "https://www.instagram.com/reel/DeKINpMCcHr/",
+        "views": 5248,
+        "alcance": 3867,
+        "interacoes": 341,
+        "saves": 43,
+        "shares": 65,
+        "share_rate_pct": 1.6808895784846134,
+        "save_rate_pct": 1.1119731057667444
+      },
+      {
+        "data": "2026-10-05",
+        "codigo": "DeHqX1ni46e",
+        "url": "https://www.instagram.com/reel/DeHqX1ni46e/",
+        "views": 1400,
+        "alcance": 835,
+        "interacoes": 61,
+        "saves": 5,
+        "shares": 12,
+        "share_rate_pct": 1.437125748502994,
+        "save_rate_pct": 0.5988023952095808
+      },
+      {
+        "data": "2026-10-04",
+        "codigo": "DeEn5OaCvGY",
+        "url": "https://www.instagram.com/reel/DeEn5OaCvGY/",
+        "views": 6097,
+        "alcance": 5149,
+        "interacoes": 476,
+        "saves": 29,
+        "shares": 73,
+        "share_rate_pct": 1.4177510196154592,
+        "save_rate_pct": 0.5632161584773743
+      },
+      {
+        "data": "2026-10-03",
+        "codigo": "DeCgC2CidYZ",
+        "url": "https://www.instagram.com/reel/DeCgC2CidYZ/",
+        "views": 1292,
+        "alcance": 896,
+        "interacoes": 132,
+        "saves": 19,
+        "shares": 32,
+        "share_rate_pct": 3.5714285714285716,
+        "save_rate_pct": 2.1205357142857144
+      },
+      {
+        "data": "2026-10-02",
+        "codigo": "DeAAyWji91-",
+        "url": "https://www.instagram.com/reel/DeAAyWji91-/",
+        "views": 437,
+        "alcance": 271,
+        "interacoes": 31,
+        "saves": 6,
+        "shares": 2,
+        "share_rate_pct": 0.7380073800738007,
+        "save_rate_pct": 2.2140221402214024
+      },
+      {
+        "data": "2026-09-30",
+        "codigo": "Dd7JgkHiFjZ",
+        "url": "https://www.instagram.com/reel/Dd7JgkHiFjZ/",
+        "views": 21898,
+        "alcance": 13544,
+        "interacoes": 1014,
+        "saves": 38,
+        "shares": 56,
+        "share_rate_pct": 0.4134672179562906,
+        "save_rate_pct": 0.2805670407560543
+      },
+      {
+        "data": "2026-09-29",
+        "codigo": "Dd4HKNwiqVc",
+        "url": "https://www.instagram.com/reel/Dd4HKNwiqVc/",
+        "views": 9356,
+        "alcance": 7356,
+        "interacoes": 638,
+        "saves": 48,
+        "shares": 39,
+        "share_rate_pct": 0.5301794453507341,
+        "save_rate_pct": 0.6525285481239804
+      },
+      {
+        "data": "2026-09-29",
+        "codigo": "Dd2hfu-ix1L",
+        "url": "https://www.instagram.com/reel/Dd2hfu-ix1L/",
+        "views": 2928,
+        "alcance": 2280,
+        "interacoes": 122,
+        "saves": 5,
+        "shares": 41,
+        "share_rate_pct": 1.7982456140350878,
+        "save_rate_pct": 0.21929824561403508
+      },
+      {
+        "data": "2026-09-27",
+        "codigo": "Ddy5JKTid0I",
+        "url": "https://www.instagram.com/reel/Ddy5JKTid0I/",
+        "views": 3542,
+        "alcance": 2033,
+        "interacoes": 279,
+        "saves": 12,
+        "shares": 122,
+        "share_rate_pct": 6.000983767830792,
+        "save_rate_pct": 0.5902606984751598
+      },
+      {
+        "data": "2026-09-26",
+        "codigo": "Ddwa5AsKRhH",
+        "url": "https://www.instagram.com/reel/Ddwa5AsKRhH/",
+        "views": 42340,
+        "alcance": 34970,
+        "interacoes": 3164,
+        "saves": 155,
+        "shares": 207,
+        "share_rate_pct": 0.5919359450957964,
+        "save_rate_pct": 0.4432370603374321
+      },
+      {
+        "data": "2026-09-25",
+        "codigo": "Ddt3SIPiddg",
+        "url": "https://www.instagram.com/reel/Ddt3SIPiddg/",
+        "views": 1262,
+        "alcance": 937,
+        "interacoes": 97,
+        "saves": 10,
+        "shares": 29,
+        "share_rate_pct": 3.0949839914621133,
+        "save_rate_pct": 1.0672358591248665
+      }
+    ],
+    "top5_notas": [
+      {
+        "codigo": "Ddwa5AsKRhH",
+        "tema": "Autoabandono",
+        "watch_medio_segundos": 7.258
+      },
+      {
+        "codigo": "DeNX3TYiU4E",
+        "tema": "Escolher o silêncio",
+        "watch_medio_segundos": 6.563
+      },
+      {
+        "codigo": "Dd7JgkHiFjZ",
+        "tema": "Sinais da pessoa certa",
+        "watch_medio_segundos": 16.589
+      },
+      {
+        "codigo": "DePQ4Afig-x",
+        "tema": "Força e recomeço",
+        "watch_medio_segundos": 6.095
+      },
+      {
+        "codigo": "DeZyPblCu4v",
+        "tema": "Fio invisível e reencontros",
+        "watch_medio_segundos": 14.116
+      }
+    ],
+    "lacunas": [
+      "Consulta de 90 dias retornou55reels desde24/08; cobertura anterior incompleta.",
+      "Feed e Stories sem linhas retornadas; ausência não comprova inexistência.",
+      "Cliques e visitas sem base confiável; não transformar em zero.",
+      "Duração e retenção nulas nos nove Reels detalhados; watch time isolado não é percentual de retenção.",
+      "Métricas de conta sem cobertura comparável: views só7dias atuais. Soma de alcance diário não é alcance único mensal.",
+      "Concorrentes sem linhas; não demonstra inexistência de cadastro, nem permite ranking atual."
+    ]
+  },
+  "concorrentes": {
+    "data_consulta": "2026-10-25",
+    "status": "Seleção qualitativa; auditoria quantitativa pendente",
+    "itens": [
+      {
+        "handle": "@chamasgemeasbr",
+        "grupo": "direto: relacionamentos espirituais",
+        "fonte": "https://chamagemea.com.br/jornada-das-chamas/",
+        "observacao": "Handle e oferta confirmados na página própria; nenhuma métrica atual auditada."
+      },
+      {
+        "handle": "@gabi.bergo",
+        "grupo": "direto/adjacente: terapias espirituais",
+        "fonte": "https://linktr.ee/gabi.bergo",
+        "observacao": "Sessões, mentoria e canais; página contém oferta antiga2024."
+      },
+      {
+        "handle": "@camilasponton",
+        "grupo": "adjacente: relacionamentos",
+        "fonte": "https://camilasponton.com.br/palestras",
+        "observacao": "Posicionamento verificado; handle precisa reconfirmação no Instagram."
+      },
+      {
+        "handle": "@luizavono",
+        "grupo": "adjacente: relacionamentos",
+        "fonte": "https://insighttimer.com/luizavono",
+        "observacao": "Posicionamento verificado; sem métricas recentes."
+      },
+      {
+        "handle": "@paolaschiebel",
+        "grupo": "candidata direta",
+        "fonte": null,
+        "observacao": "Atividade e oferta atual não confirmadas."
+      },
+      {
+        "handle": "@dalilarodrigues",
+        "grupo": "candidata direta",
+        "fonte": null,
+        "observacao": "Identidade não confirmada; risco de homônimas."
+      }
+    ],
+    "limites": "Perfis Instagram inacessíveis na pesquisa pública. Sem seguidores, alcance privado, saves, compartilhamentos ou vendas atuais validados.",
+    "documentacao": [
+      "https://help.metricool.com/competitor-analysis-ouhue",
+      "https://help.metricool.com/instagram-metrics-ght51",
+      "https://help.metricool.com/how-engagement-is-calculated-in-metricool-i0x20"
+    ]
+  },
+  "drive": {
+    "estado": "fonte privada local (mapa fora do repositório público)",
+    "cronograma_antigo": "28linhas com estados ideia/roteiro e campos de métricas vazios; não prova publicação.",
+    "semana26": {
+      "mp4": 7,
+      "observacao": "Existência e legendas verificadas. MP4s não assistidos. CTAs CORTES/CHAMAGEMEA/ALIVIO; não comprovam automação ativa."
+    }
+  },
+  "locais": {
+    "estado": "fonte privada local (mapa fora do repositório público)",
+    "carrosseis_inventario": {
+      "png_slides": 41,
+      "previas": 5,
+      "legendas": 5,
+      "dimensoes": "1080x1350",
+      "slugs": [
+        "autoabandono",
+        "competicao",
+        "alma-eternidade",
+        "pessoa-certa",
+        "7-sinais"
+      ],
+      "estado": "Exportados; aprovação editorial e publicação não comprovadas."
+    },
+    "vsl_limite": "3Reels+4partesStories em rascunho, identidade/autoria da voz e legendas exigem conferência. Prévias ray-*.mp4 de limpeza-energetica usam TTS Charon, não tratadas como voz real.",
+    "manuscritos": "existem rascunhos editoriais privados; conteúdo não reproduzido"
+  },
+  "plataformas_fontes": [
+    {
+      "tema": "Links Shorts",
+      "url": "https://support.google.com/youtube/answer/13748639?hl=pt-BR",
+      "observacao": "Links de descrição/comentário de Shorts não clicáveis; usar perfil do canal."
+    },
+    {
+      "tema": "Link TikTok",
+      "url": "https://support.tiktok.com/en/getting-started/setting-up-your-profile/linking-another-social-media-account",
+      "observacao": "Documento oficial indexado menciona1000seguidores ou Registered Business Account; validar elegibilidade real do perfil. Abertura pt-BR bloqueada por robots."
+    },
+    {
+      "tema": "Remotion",
+      "url": "https://www.remotion.dev/docs/composition",
+      "observacao": "Composição permite dimensões, fps e duração; especificação editorial proposta usa1080x1920/30fps."
+    }
+  ],
+  "calendario_resumo": {
+    "dias": 37,
+    "reels": 16,
+    "carrosseis": 11,
+    "dias_stories_producao_revisao": 10,
+    "observacao": "Stories também nos27dias de feed; novos canais condicionados à disponibilidade."
+  }
+}

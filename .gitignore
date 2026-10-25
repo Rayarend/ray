@@ -13,6 +13,7 @@ local/
 *.wpress
 *.sqlite*
 *.log
+_infra/codex/out/
 __pycache__/
 node_modules/
 .DS_Store

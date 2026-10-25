@@ -1,0 +1,28 @@
+{
+  "marca_id": "igreen-brasil",
+  "nome": "Igreen Brasil",
+  "responsavel": "Ray Arend",
+  "idioma": "pt-BR",
+  "fuso": "America/Sao_Paulo",
+  "estado_editorial": "sem_planejamento",
+  "canais": {
+    "instagram": {
+      "handle": "@igreen_brasil_",
+      "url": "https://www.instagram.com/igreen_brasil_/",
+      "estado": "conectado",
+      "identidade_confirmada": true
+    },
+    "facebook": {
+      "url": null,
+      "estado": "pendente_confirmar",
+      "identidade_confirmada": false
+    },
+    "tiktok": {
+      "handle": null,
+      "url": null,
+      "estado": "pendente_confirmar",
+      "identidade_confirmada": false
+    }
+  },
+  "arquivos": {}
+}

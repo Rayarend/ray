@@ -1,0 +1,28 @@
+{
+  "marca_id": "curandeira-do-amor",
+  "nome": "Curandeira do Amor",
+  "responsavel": "Ray Arend",
+  "idioma": "pt-BR",
+  "fuso": "America/Sao_Paulo",
+  "estado_editorial": "sem_planejamento",
+  "canais": {
+    "instagram": {
+      "handle": "@curandeira.doamor",
+      "url": "https://www.instagram.com/curandeira.doamor/",
+      "estado": "conectado",
+      "identidade_confirmada": true
+    },
+    "facebook": {
+      "url": null,
+      "estado": "pendente_confirmar",
+      "identidade_confirmada": false
+    },
+    "tiktok": {
+      "handle": null,
+      "url": null,
+      "estado": "pendente_confirmar",
+      "identidade_confirmada": false
+    }
+  },
+  "arquivos": {}
+}

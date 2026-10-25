@@ -1,0 +1,28 @@
+{
+  "marca_id": "alianca-terapeutica-520",
+  "nome": "Aliança Terapêutica 520",
+  "responsavel": "Ray Arend",
+  "idioma": "pt-BR",
+  "fuso": "America/Sao_Paulo",
+  "estado_editorial": "sem_planejamento",
+  "canais": {
+    "instagram": {
+      "handle": "@aliancaterapeutica520",
+      "url": "https://www.instagram.com/aliancaterapeutica520/",
+      "estado": "conectado",
+      "identidade_confirmada": true
+    },
+    "facebook": {
+      "url": null,
+      "estado": "pendente_confirmar",
+      "identidade_confirmada": false
+    },
+    "tiktok": {
+      "handle": null,
+      "url": null,
+      "estado": "pendente_confirmar",
+      "identidade_confirmada": false
+    }
+  },
+  "arquivos": {}
+}
