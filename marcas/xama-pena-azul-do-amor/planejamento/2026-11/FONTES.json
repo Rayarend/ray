@@ -6,17 +6,9 @@
     "inicio": "2026-10-25",
     "fim": "2026-11-30"
   },
-  "autorizacao_arquivos": {
-    "data": "2026-10-25",
-    "origem": "Usuário autorizou explicitamente estes três arquivos, como exceção ao AGENTS.md.",
-    "arquivos": [
-      "PLANEJAMENTO.md",
-      "CALENDARIO.csv",
-      "FONTES.json"
-    ]
-  },
   "escopo": "Planejamento e leitura. Nenhuma publicação, criação de canal, agendamento ou alteração de produção.",
   "metricool": {
+    "brand_id": 6413115,
     "perfil": "@xama.pena.azul.do.amor",
     "metodo": "MCP autenticado; coleta delegada por duas sessões Codex CLI efêmeras e somente leitura. Credenciais não exportadas.",
     "ferramentas": [
@@ -490,33 +482,6 @@
       "https://help.metricool.com/how-engagement-is-calculated-in-metricool-i0x20"
     ]
   },
-  "drive": {
-    "estado": "fonte privada local (mapa fora do repositório público)",
-    "cronograma_antigo": "28linhas com estados ideia/roteiro e campos de métricas vazios; não prova publicação.",
-    "semana26": {
-      "mp4": 7,
-      "observacao": "Existência e legendas verificadas. MP4s não assistidos. CTAs CORTES/CHAMAGEMEA/ALIVIO; não comprovam automação ativa."
-    }
-  },
-  "locais": {
-    "estado": "fonte privada local (mapa fora do repositório público)",
-    "carrosseis_inventario": {
-      "png_slides": 41,
-      "previas": 5,
-      "legendas": 5,
-      "dimensoes": "1080x1350",
-      "slugs": [
-        "autoabandono",
-        "competicao",
-        "alma-eternidade",
-        "pessoa-certa",
-        "7-sinais"
-      ],
-      "estado": "Exportados; aprovação editorial e publicação não comprovadas."
-    },
-    "vsl_limite": "3Reels+4partesStories em rascunho, identidade/autoria da voz e legendas exigem conferência. Prévias ray-*.mp4 de limpeza-energetica usam TTS Charon, não tratadas como voz real.",
-    "manuscritos": "existem rascunhos editoriais privados; conteúdo não reproduzido"
-  },
   "plataformas_fontes": [
     {
       "tema": "Links Shorts",
@@ -540,5 +505,12 @@
     "carrosseis": 11,
     "dias_stories_producao_revisao": 10,
     "observacao": "Stories também nos27dias de feed; novos canais condicionados à disponibilidade."
-  }
+  },
+  "marca_id": "xama-pena-azul-do-amor",
+  "versao_publica": true,
+  "publicacao_autorizada": {
+    "data": "2026-10-25",
+    "escopo": "Métricas do próprio perfil. Manuscritos e dados de clientes ficam locais."
+  },
+  "materiais_privados": "Inventário consultado localmente. Caminhos locais, documentos de clientes, manuscritos e links privados de edição não foram publicados."
 }

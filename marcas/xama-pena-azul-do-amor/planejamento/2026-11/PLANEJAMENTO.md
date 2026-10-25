@@ -1,6 +1,7 @@
-> **Marca:** Xamã Pena Azul do Amor (`xama-pena-azul-do-amor`) · **Canais:** Instagram @xama.pena.azul.do.amor + Facebook da marca · TikTok a criar.
-
 # Planejamento — Xamã Pena Azul do Amor
+
+> Marca: **xama-pena-azul-do-amor**. Instagram @xama.pena.azul.do.amor e Facebook da marca; TikTok a criar. Estado: **rascunho para revisão**, sem agendamento. Publicação destas métricas próprias autorizada por Ray em 25/10/2026.
+
 **Versão para revisão de Ray · 25/10/2026 · America/Sao_Paulo**  
 **Período: 25/10 a 30/11/2026.** Produção proposta: **16 Reels + 11 carrosséis**, com Stories diários. Edição dos vídeos: **Remotion**, conforme pedido.
 
@@ -57,7 +58,7 @@ Os menores por views incluem 02/10 (437), 23/10 (444) e 22/10 (488). Os dois úl
 | Abertura ao encontro | “Quero conhecer seu acompanhamento para esta fase da vida.” | Chamado da Alma Gêmea | Conversa no WhatsApp sobre o programa |
 | Identificação | Autovalor, limites e recomeço | Construção de vínculo e confiança | Compartilhar/salvar; atendimento apresentado em Story separado |
 
-A oferta oficial local (fonte privada) registra as duas ofertas no orgânico. Cortes: individual, online, 60 minutos; Chamado: acompanhamento com preço próprio fechado na conversa. Preço, parcelamento e disponibilidade devem ser confirmados antes de uma peça comercial; não usar valores antigos da VSL de junho nem os tiers de R$4–12 mil de páginas antigas.
+A oferta oficial local (fonte local/privada) registra as duas ofertas no orgânico. Cortes: individual, online, 60 minutos; Chamado: acompanhamento com preço próprio fechado na conversa. Preço, parcelamento e disponibilidade devem ser confirmados antes de uma peça comercial; não usar valores antigos da VSL de junho nem os tiers de valores antigos de páginas antigas.
 
 O conteúdo deve explicar a prática e o processo com clareza, preservando a autonomia da pessoa. Não transformar saudade, sonho ou sofrimento em diagnóstico de “laço ativo”, prometer o retorno de alguém ou prazo para encontrar parceiro. Não comparar o serviço como substituto superior à psicoterapia. Depoimentos precisam de autorização e devem descrever a experiência individual, sem virar garantia.
 
@@ -89,27 +90,13 @@ Comparar medianas por formato e desempenho relativo à própria conta. Para inte
 
 A [documentação da Metricool](https://help.metricool.com/how-engagement-is-calculated-in-metricool-i0x20) explica os denominadores diferentes; a [análise de concorrentes](https://help.metricool.com/competitor-analysis-ouhue) explica as restrições de dados públicos. Se for necessário cadastrar perfis, isso será uma etapa operacional posterior, não executada aqui.
 
-## 4. Materiais que já existem
+## 4. Materiais existentes e fontes privadas
 
-| Material | Evidência | Uso proposto |
-|---|---|---|
-| Carrosséis locais (fonte privada) | 5 conjuntos, 41 PNGs 1080×1350, 5 prévias e legendas | Reaproveitar identidade visual e trechos adequados após revisão |
-| alma-eternidade | 8 slides; data antiga sugerida 25/10 | Candidato para hoje; trocar CTA duplo e revisar afirmações antes de usar |
-| autoabandono, competicao, pessoa-certa, 7-sinais | Exportações reais; cronograma ainda indica roteiro | Fontes de estrutura; evitar repetição sem verificar publicação anterior |
-| Drive · Semana26/10 (fonte privada) | 7 MP4 s de 26/10 a 01/11 e LEGENDAS.txt | Assistir e reaproveitar seletivamente; não presumir que estejam prontos |
-| Cronograma antigo no Drive (fonte privada) | 28 linhas até 25/10, estados ideia/roteiro, métricas vazias | Referência histórica; não serve como comprovação de postagem |
-| VSL local candidata (fonte privada) | Fonte com legendas e 3 Reels/4 partesStories em rascunho | Trecho187,220–207,830 s como candidato a acolhimento; conferir voz e contexto |
-| Prévias ray-*.mp4 de limpeza energética | Documentação informa TTS Charon | Não apresentar como voz original de Ray |
+A pasta local possui cinco carrosséis exportados, com 41 PNGs, prévias e legendas. Há sete MP4s para a semana de 26/10 e cortes de VSL em rascunho. Existência de arquivo não comprova aprovação ou publicação.
 
-Os arquivos não foram alterados. O nome de uma pasta “VALIDADOS” e a existência de um MP4 não comprovam aprovação editorial, direitos de uso, publicação ou funcionamento do CTA.
+Dois manuscritos de e-book foram encontrados, um com autoria nominal de Ray. Ambos precisam de revisão editorial e links finais. Os conceitos servem como referência, sem disponibilizar os livros. Manuscritos, dados de clientes e links privados de edição ficam locais.
 
-### Manuscritos privados
-
-Há rascunhos editoriais de e-book e da estratégia do Chamado guardados localmente. O conteúdo não é reproduzido neste repositório.
-
-**Temas aproveitáveis:** encerramento de uma relação e elaboração da história; memórias; autoabandono; expectativas antigas; escolhas que se repetem; escrita reflexiva; como funciona a sessão; reciprocidade e abertura ao novo. O calendário usa esses conceitos como ponto de partida, com texto novo.
-
-O manuscrito de Ray fala em 60–90 min; a oferta oficial posterior informa60 min. Usar a oferta atual confirmada. Não transportar números sem fonte, alegações de comprovação por física quântica/neurociência ou relatos não verificados para posts. O e-book fica como fonte editorial neste mês; não criar CTA de download, venda ou entrega automática sem a versão final e o destino correspondentes.
+O pacote público inclui [Brand Kit e logos](../../brand-kit/BRAND-KIT.md) e [cadastro dos canais](../../marca.json). A série de Seres Multidimensionais permanece separada.
 
 ## 5. Cadência escolhida
 
@@ -275,4 +262,4 @@ Revisões:01,08,15,22 e29/11. A revisão de 29/11 é provisória. Fechamento de 
 
 A agenda Metricool retornou **zero posts agendados** de 25/10 a 30/11, mas não cobre outras filas. O presente planejamento está pronto como proposta fundamentada; produção, revisão editorial, abertura de canal e publicação são etapas posteriores.
 
-**Entregáveis desta etapa:** este plano, calendário CSV e fontes JSON. Nenhum script, arte, configuração ou arquivo antigo foi modificado.
+**Versão pública:** plano, calendário e métricas próprias autorizadas. Materiais privados foram omitidos; a cópia local original permanece preservada.
