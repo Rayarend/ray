@@ -1,0 +1,63 @@
+{
+  "kit": "warm",
+  "formato": "4:5",
+  "paleta": {
+    "bg": "#152D40",
+    "fg": "#F7F3EB",
+    "muted": "#C1CED8",
+    "accent": "#D4B06B",
+    "surface": "#29465B",
+    "cream": "#F7F3EB"
+  },
+  "handle": "@seres_multidimensionais",
+  "slides": [
+    {
+      "tipo": "capa",
+      "kicker": "CUIDADO NO COTIDIANO",
+      "titulo": "A saudade chegou. Você não precisa decidir hoje.",
+      "sub": "Um lembrete para quem está encerrando um ciclo."
+    },
+    {
+      "tipo": "passo",
+      "titulo": "A lembrança pode ser bonita.",
+      "corpo": "Isso não apaga os motivos que levaram você a escolher outro caminho.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Você pode sentir falta e manter um limite.",
+      "corpo": "Os dois sentimentos podem existir ao mesmo tempo.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Nem toda história termina com respostas.",
+      "corpo": "Às vezes, o próximo passo começa com o que você já sabe.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Pegue papel e escreva.",
+      "corpo": "“O que quero levar dessa história?” Não precisa mostrar para ninguém.",
+      "breather": true
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Agora escreva uma segunda frase.",
+      "corpo": "“O que não quero repetir?” Transforme uma resposta em um limite concreto.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Encerrar não exige esquecer.",
+      "corpo": "Também não exige perdoar, retomar contato ou se reconciliar.",
+      "breather": false
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Este lembrete pode acolher alguém.",
+      "acao": "Compartilhe com cuidado, sem cobrar uma decisão.",
+      "sub": "@seres_multidimensionais"
+    }
+  ]
+}

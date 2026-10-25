@@ -1,0 +1,63 @@
+{
+  "kit": "warm",
+  "formato": "4:5",
+  "paleta": {
+    "bg": "#152D40",
+    "fg": "#F7F3EB",
+    "muted": "#C1CED8",
+    "accent": "#D4B06B",
+    "surface": "#29465B",
+    "cream": "#F7F3EB"
+  },
+  "handle": "@seres_multidimensionais",
+  "slides": [
+    {
+      "tipo": "capa",
+      "kicker": "CUIDADO NO COTIDIANO",
+      "titulo": "Nem todo dia pesado pede um ritual.",
+      "sub": "4 perguntas para escutar suas necessidades antes de buscar explicações."
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Como foi seu sono?",
+      "corpo": "Você descansou ou passou a noite entre notificações, preocupações e despertares?",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Você fez alguma pausa?",
+      "corpo": "Observe alimentação, água e o tempo que passou sem levantar ou desacelerar.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "O que aconteceu hoje?",
+      "corpo": "Uma conversa difícil ou uma tarefa acumulada pode continuar ocupando sua atenção.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Quanto estímulo entrou?",
+      "corpo": "Barulho, telas e muitas mensagens: seu dia teve espaço para silêncio?",
+      "breather": true
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Escolha um cuidado possível.",
+      "corpo": "Faça uma pausa, ajuste o ambiente ou peça ajuda com uma tarefa.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "A fé pode acompanhar esse cuidado.",
+      "corpo": "Se o cansaço persistir ou preocupar, procure avaliação profissional.",
+      "breather": false
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Guarde estas quatro perguntas.",
+      "acao": "Salve para consultar quando o dia parecer pesado.",
+      "sub": "@seres_multidimensionais"
+    }
+  ]
+}

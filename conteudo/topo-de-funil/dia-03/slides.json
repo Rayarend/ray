@@ -1,0 +1,63 @@
+{
+  "kit": "warm",
+  "formato": "4:5",
+  "paleta": {
+    "bg": "#152D40",
+    "fg": "#F7F3EB",
+    "muted": "#C1CED8",
+    "accent": "#D4B06B",
+    "surface": "#29465B",
+    "cream": "#F7F3EB"
+  },
+  "handle": "@seres_multidimensionais",
+  "slides": [
+    {
+      "tipo": "capa",
+      "kicker": "CUIDADO NO COTIDIANO",
+      "titulo": "3 minutos. Nenhum objeto. Um momento seu.",
+      "sub": "Uma prática breve de presença para experimentar."
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Comece com conforto.",
+      "corpo": "Sente-se com apoio e deixe os pés no chão. Faça isso em um lugar seguro, nunca dirigindo.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Primeiro minuto: perceba.",
+      "corpo": "Olhe ao redor e nomeie três coisas que consegue enxergar.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Segundo minuto: respire.",
+      "corpo": "Deixe o ar entrar e sair naturalmente. Sem prender, contar ou forçar.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Terceiro minuto: pergunte.",
+      "corpo": "“Do que preciso agora?” Não é necessário encontrar uma resposta bonita.",
+      "breather": true
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Escolha um próximo gesto.",
+      "corpo": "Água, descanso, uma conversa ou uma tarefa menor. O que é possível hoje?",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Se fizer sentido para sua fé…",
+      "corpo": "Encerre com uma oração breve. Se sentir desconforto, pare e retome uma atividade familiar.",
+      "breather": false
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Uma pausa para ter à mão.",
+      "acao": "Salve este roteiro para experimentar no seu tempo.",
+      "sub": "@seres_multidimensionais"
+    }
+  ]
+}

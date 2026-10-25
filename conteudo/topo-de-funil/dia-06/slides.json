@@ -1,0 +1,63 @@
+{
+  "kit": "warm",
+  "formato": "4:5",
+  "paleta": {
+    "bg": "#152D40",
+    "fg": "#F7F3EB",
+    "muted": "#C1CED8",
+    "accent": "#D4B06B",
+    "surface": "#29465B",
+    "cream": "#F7F3EB"
+  },
+  "handle": "@seres_multidimensionais",
+  "slides": [
+    {
+      "tipo": "capa",
+      "kicker": "CUIDADO NO COTIDIANO",
+      "titulo": "Um dia ruim não cancela sua espiritualidade.",
+      "sub": "Você não precisa estar em paz o tempo todo."
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Você pode orar e ainda sentir tristeza.",
+      "corpo": "Uma prática espiritual não torna ninguém imune às emoções.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Pode meditar e sentir raiva depois.",
+      "corpo": "Perceber um sentimento é diferente de escolher como agir com ele.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Pode precisar de silêncio.",
+      "corpo": "E também pode precisar de alguém que escute sem tentar explicar tudo.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Troque a cobrança por uma pergunta.",
+      "corpo": "Em vez de “por que não estou bem?”, experimente “que cuidado preciso agora?”.",
+      "breather": true
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Experimente dizer isso a alguém.",
+      "corpo": "“Hoje está difícil. Você consegue me ouvir por alguns minutos?”",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Pedir apoio cabe na sua caminhada.",
+      "corpo": "Inclusive apoio profissional, quando precisar. Você não precisa atravessar tudo sozinho.",
+      "breather": false
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Um lembrete para guardar por perto.",
+      "acao": "Compartilhe com alguém que acolheria estas palavras.",
+      "sub": "@seres_multidimensionais"
+    }
+  ]
+}

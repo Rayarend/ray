@@ -1,0 +1,63 @@
+{
+  "kit": "warm",
+  "formato": "4:5",
+  "paleta": {
+    "bg": "#152D40",
+    "fg": "#F7F3EB",
+    "muted": "#C1CED8",
+    "accent": "#D4B06B",
+    "surface": "#29465B",
+    "cream": "#F7F3EB"
+  },
+  "handle": "@seres_multidimensionais",
+  "slides": [
+    {
+      "tipo": "capa",
+      "kicker": "CUIDADO NO COTIDIANO",
+      "titulo": "Seu ritual pode começar nesta pequena mesa.",
+      "sub": "10 minutos para cuidar de um canto e formular uma intenção."
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Escolha só um espaço.",
+      "corpo": "Uma mesa, uma prateleira ou a cabeceira. Deixe o resto para outro momento.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Retire o que não pertence ali.",
+      "corpo": "Separe o que vai guardar e o que precisa descartar.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Cuide da superfície.",
+      "corpo": "Use um produto adequado, conforme o rótulo. Não misture produtos de limpeza.",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Escolha um objeto significativo.",
+      "corpo": "Pode ser um livro, uma foto ou uma imagem ligada à sua fé. Nada precisa ser comprado.",
+      "breather": true
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Faça uma pausa diante desse espaço.",
+      "corpo": "Pergunte: “O que quero cultivar aqui?” Descanso, foco, acolhimento…",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Respeite quem divide a casa.",
+      "corpo": "Oração silenciosa e organização permitem um ritual sem fumaça nem fragrância.",
+      "breather": false
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Um canto por vez.",
+      "acao": "Salve este passo a passo para quando quiser começar.",
+      "sub": "@seres_multidimensionais"
+    }
+  ]
+}

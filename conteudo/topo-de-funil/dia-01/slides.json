@@ -1,0 +1,63 @@
+{
+  "kit": "warm",
+  "formato": "4:5",
+  "paleta": {
+    "bg": "#152D40",
+    "fg": "#F7F3EB",
+    "muted": "#C1CED8",
+    "accent": "#D4B06B",
+    "surface": "#29465B",
+    "cream": "#F7F3EB"
+  },
+  "handle": "@seres_multidimensionais",
+  "slides": [
+    {
+      "tipo": "capa",
+      "kicker": "CUIDADO NO COTIDIANO",
+      "titulo": "Você pode amar alguém e dizer: hoje não.",
+      "sub": "3 frases para quando você precisa de espaço."
+    },
+    {
+      "tipo": "passo",
+      "titulo": "A mensagem chega. Você já está no limite.",
+      "corpo": "Mesmo assim, começa a responder para não desagradar. Reconhece essa cena?",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Antes de responder, faça uma pergunta.",
+      "corpo": "Eu quero ajudar agora ou estou com medo de parecer uma pessoa ruim?",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Para pedir tempo",
+      "corpo": "“Quero te ouvir. Hoje preciso descansar. Podemos conversar amanhã?”",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Para recusar um pedido",
+      "corpo": "“Dessa vez não vou conseguir assumir isso.” Você pode ser claro sem atacar.",
+      "breather": true
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Para encerrar uma conversa",
+      "corpo": "“Preciso parar por aqui. Retomo quando tiver disponibilidade.”",
+      "breather": false
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Seu limite merece respeito.",
+      "corpo": "Uma frase não resolve toda relação. Mas pode ser um primeiro passo para se posicionar.",
+      "breather": false
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Conhece alguém que precisa dessas frases?",
+      "acao": "Compartilhe este carrossel com essa pessoa.",
+      "sub": "@seres_multidimensionais"
+    }
+  ]
+}
