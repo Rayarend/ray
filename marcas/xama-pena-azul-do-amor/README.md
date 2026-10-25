@@ -9,10 +9,13 @@
 | Calendário de 37 dias | [CALENDARIO.csv](planejamento/2026-11/CALENDARIO.csv) |
 | Métricas e fontes | [FONTES.json](planejamento/2026-11/FONTES.json) |
 | Brand Kit preparado | [BRAND-KIT.md](brand-kit/BRAND-KIT.md) |
+| Logo padrão e alternativa | [tom branco](brand-kit/logos/logo-tom-branco.png) · [tom escuro](brand-kit/logos/logo-tom-escuro.png) |
 | Cores, fontes, sombras | [tokens.json](brand-kit/tokens.json) |
 | Aplicação futura no Canva | [CANVA-ESTRUTURA.md](brand-kit/CANVA-ESTRUTURA.md) |
 
 São **16 Reels e 11 carrosséis**, com Stories diários. Vídeos serão preparados no Remotion. Nenhum material foi agendado/publicado por esta entrega. Condições comerciais precisam da confirmação atual de Ray.
+
+**Logo:** usar o tom branco na maioria das peças; trocar pelo tom escuro quando o contraste do fundo prejudicar a leitura. [Origem no Drive](https://drive.google.com/drive/folders/1gvadFXhLzFeUaQTq3od5GmEcaRrL4EA1).
 
 ## Onde está cada coisa
 

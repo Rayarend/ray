@@ -12,11 +12,11 @@ Verificar as capacidades reais do conector: upload de asset, editar design, ler 
 
 Nome proposto: **Xamã Pena Azul do Amor — Ray Arend**.
 
-1. Enviar [simbolo.png](logos/simbolo.png) e [assinatura.png](logos/assinatura.png), conferindo transparência.
+1. Enviar [logo-tom-branco.png](logos/logo-tom-branco.png) como variante padrão e [logo-tom-escuro.png](logos/logo-tom-escuro.png) como alternativa; conferir transparência e legibilidade no fundo real. [simbolo.png](logos/simbolo.png) e [assinatura.png](logos/assinatura.png) ficam como acervo.
 2. Adicionar #14213D, #F6F0E6, #E8762C, #C9C3B8 e #7A7468.
 3. Definir Alegreya para títulos e Poppins para corpo/rótulos.
 4. Se a conta/conector não permitir criar Brand Kit, preparar apenas o guia de estilos no design e informar a limitação.
-5. Registrar IDs do Brand Kit e assets somente após retorno e leitura de verificação.
+5. Registrar IDs do Brand Kit e assets somente após retorno e leitura de verificação. O círculo azul com marca de seleção presente na arte não deve ser apresentado como prova de conta verificada.
 
 ## Páginas propostas
 
