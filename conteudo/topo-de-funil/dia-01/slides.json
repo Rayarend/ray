@@ -15,7 +15,10 @@
       "tipo": "capa",
       "kicker": "CUIDADO NO COTIDIANO",
       "titulo": "Você pode amar alguém e dizer: hoje não.",
-      "sub": "3 frases para quando você precisa de espaço."
+      "sub": "3 frases para quando você precisa de espaço.",
+      "bg_uri": "capa-fundo.png",
+      "overlayStyle": "topo",
+      "overlayOpacity": 60
     },
     {
       "tipo": "passo",

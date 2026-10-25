@@ -15,7 +15,10 @@
       "tipo": "capa",
       "kicker": "CUIDADO NO COTIDIANO",
       "titulo": "Nem todo dia pesado pede um ritual.",
-      "sub": "4 perguntas para escutar suas necessidades antes de buscar explicações."
+      "sub": "4 perguntas para escutar suas necessidades antes de buscar explicações.",
+      "bg_uri": "capa-fundo.png",
+      "overlayStyle": "topo",
+      "overlayOpacity": 60
     },
     {
       "tipo": "passo",

@@ -15,7 +15,10 @@
       "tipo": "capa",
       "kicker": "CUIDADO NO COTIDIANO",
       "titulo": "Seu ritual pode começar nesta pequena mesa.",
-      "sub": "10 minutos para cuidar de um canto e formular uma intenção."
+      "sub": "10 minutos para cuidar de um canto e formular uma intenção.",
+      "bg_uri": "capa-fundo.png",
+      "overlayStyle": "topo",
+      "overlayOpacity": 60
     },
     {
       "tipo": "passo",

@@ -15,7 +15,10 @@
       "tipo": "capa",
       "kicker": "CUIDADO NO COTIDIANO",
       "titulo": "A saudade chegou. Você não precisa decidir hoje.",
-      "sub": "Um lembrete para quem está encerrando um ciclo."
+      "sub": "Um lembrete para quem está encerrando um ciclo.",
+      "bg_uri": "capa-fundo.png",
+      "overlayStyle": "topo",
+      "overlayOpacity": 60
     },
     {
       "tipo": "passo",

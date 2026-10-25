@@ -15,7 +15,10 @@
       "tipo": "capa",
       "kicker": "CUIDADO NO COTIDIANO",
       "titulo": "Antes de planejar outra semana, responda isto.",
-      "sub": "3 perguntas para escolher um próximo passo possível."
+      "sub": "3 perguntas para escolher um próximo passo possível.",
+      "bg_uri": "capa-fundo.png",
+      "overlayStyle": "topo",
+      "overlayOpacity": 60
     },
     {
       "tipo": "passo",

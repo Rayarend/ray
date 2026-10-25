@@ -15,7 +15,10 @@
       "tipo": "capa",
       "kicker": "CUIDADO NO COTIDIANO",
       "titulo": "3 minutos. Nenhum objeto. Um momento seu.",
-      "sub": "Uma prática breve de presença para experimentar."
+      "sub": "Uma prática breve de presença para experimentar.",
+      "bg_uri": "capa-fundo.png",
+      "overlayStyle": "topo",
+      "overlayOpacity": 60
     },
     {
       "tipo": "passo",
