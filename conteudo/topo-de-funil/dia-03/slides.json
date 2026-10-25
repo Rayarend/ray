@@ -18,49 +18,253 @@
       "sub": "Uma prática breve de presença para experimentar.",
       "bg_uri": "capa-fundo.png",
       "overlayStyle": "topo",
-      "overlayOpacity": 60
+      "overlayOpacity": 85,
+      "fx": {
+        "vpos": "sup",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 88,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.02,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      },
+      "hlT": [],
+      "hlS": []
     },
     {
       "tipo": "passo",
       "titulo": "Comece com conforto.",
       "corpo": "Sente-se com apoio e deixe os pés no chão. Faça isso em um lugar seguro, nunca dirigindo.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Primeiro minuto: perceba.",
       "corpo": "Olhe ao redor e nomeie três coisas que consegue enxergar.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Segundo minuto: respire.",
       "corpo": "Deixe o ar entrar e sair naturalmente. Sem prender, contar ou forçar.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Terceiro minuto: pergunte.",
       "corpo": "“Do que preciso agora?” Não é necessário encontrar uma resposta bonita.",
-      "breather": true
+      "breather": true,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Escolha um próximo gesto.",
       "corpo": "Água, descanso, uma conversa ou uma tarefa menor. O que é possível hoje?",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Se fizer sentido para sua fé…",
       "corpo": "Encerre com uma oração breve. Se sentir desconforto, pare e retome uma atividade familiar.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "cta",
       "titulo": "Uma pausa para ter à mão.",
       "acao": "Salve este roteiro para experimentar no seu tempo.",
-      "sub": "@seres_multidimensionais"
+      "sub": "@seres_multidimensionais",
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": 0,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     }
-  ]
+  ],
+  "g": {
+    "showCorners": true,
+    "corners": {
+      "se": {
+        "on": false,
+        "text": ""
+      },
+      "sd": {
+        "on": true,
+        "text": "{n}/{total}"
+      },
+      "ie": {
+        "on": true,
+        "text": "{handle}"
+      },
+      "id": {
+        "on": false,
+        "text": ""
+      }
+    },
+    "dots": false,
+    "cornerSize": 30,
+    "cornerInset": 96,
+    "cornerOpacity": 100,
+    "cornerGlass": false,
+    "cornerBorder": false,
+    "cornerIcon": "none",
+    "lastDir": "",
+    "lastEsq": "",
+    "lastIcon": "none",
+    "logoUri": null,
+    "logoScope": "none",
+    "logoPos": "none"
+  }
 }

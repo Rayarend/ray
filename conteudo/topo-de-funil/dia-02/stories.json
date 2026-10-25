@@ -1,0 +1,123 @@
+{
+  "kit": "warm",
+  "paleta": {
+    "bg": "#152D40",
+    "fg": "#F7F3EB",
+    "muted": "#C1CED8",
+    "accent": "#D4B06B",
+    "surface": "#29465B",
+    "cream": "#F7F3EB"
+  },
+  "handle": "@seres_multidimensionais",
+  "formato": "9:16",
+  "slides": [
+    {
+      "tipo": "passo",
+      "titulo": "Do que você precisa mais hoje?",
+      "corpo": "Uma pausa • Organizar a rotina",
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 36,
+        "tSize": 82,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 46,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Antes de interpretar o dia, observe o que aconteceu nele.",
+      "corpo": "Sono, alimentação, conversas e estímulos merecem atenção.",
+      "breather": true,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 36,
+        "tSize": 82,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 46,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Como foi seu sono?",
+      "corpo": "Você conseguiu parar um pouco hoje?",
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 36,
+        "tSize": 82,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 46,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
+    },
+    {
+      "tipo": "passo",
+      "titulo": "Nem todo dia pesado pede um ritual.",
+      "corpo": "Confira as quatro perguntas no carrossel de hoje.",
+      "breather": true,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 36,
+        "tSize": 82,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 46,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
+    }
+  ]
+}

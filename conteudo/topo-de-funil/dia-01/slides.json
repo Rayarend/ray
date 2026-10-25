@@ -18,49 +18,253 @@
       "sub": "3 frases para quando você precisa de espaço.",
       "bg_uri": "capa-fundo.png",
       "overlayStyle": "topo",
-      "overlayOpacity": 60
+      "overlayOpacity": 85,
+      "fx": {
+        "vpos": "sup",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 88,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.02,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      },
+      "hlT": [],
+      "hlS": []
     },
     {
       "tipo": "passo",
       "titulo": "A mensagem chega. Você já está no limite.",
       "corpo": "Mesmo assim, começa a responder para não desagradar. Reconhece essa cena?",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Antes de responder, faça uma pergunta.",
       "corpo": "Eu quero ajudar agora ou estou com medo de parecer uma pessoa ruim?",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Para pedir tempo",
       "corpo": "“Quero te ouvir. Hoje preciso descansar. Podemos conversar amanhã?”",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Para recusar um pedido",
       "corpo": "“Dessa vez não vou conseguir assumir isso.” Você pode ser claro sem atacar.",
-      "breather": true
+      "breather": true,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Para encerrar uma conversa",
       "corpo": "“Preciso parar por aqui. Retomo quando tiver disponibilidade.”",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Seu limite merece respeito.",
       "corpo": "Uma frase não resolve toda relação. Mas pode ser um primeiro passo para se posicionar.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "cta",
       "titulo": "Conhece alguém que precisa dessas frases?",
       "acao": "Compartilhe este carrossel com essa pessoa.",
-      "sub": "@seres_multidimensionais"
+      "sub": "@seres_multidimensionais",
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": 0,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     }
-  ]
+  ],
+  "g": {
+    "showCorners": true,
+    "corners": {
+      "se": {
+        "on": false,
+        "text": ""
+      },
+      "sd": {
+        "on": true,
+        "text": "{n}/{total}"
+      },
+      "ie": {
+        "on": true,
+        "text": "{handle}"
+      },
+      "id": {
+        "on": false,
+        "text": ""
+      }
+    },
+    "dots": false,
+    "cornerSize": 30,
+    "cornerInset": 96,
+    "cornerOpacity": 100,
+    "cornerGlass": false,
+    "cornerBorder": false,
+    "cornerIcon": "none",
+    "lastDir": "",
+    "lastEsq": "",
+    "lastIcon": "none",
+    "logoUri": null,
+    "logoScope": "none",
+    "logoPos": "none"
+  }
 }

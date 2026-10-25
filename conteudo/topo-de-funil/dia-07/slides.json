@@ -18,49 +18,253 @@
       "sub": "3 perguntas para escolher um próximo passo possível.",
       "bg_uri": "capa-fundo.png",
       "overlayStyle": "topo",
-      "overlayOpacity": 60
+      "overlayOpacity": 85,
+      "fx": {
+        "vpos": "sup",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 88,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.02,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      },
+      "hlT": [],
+      "hlS": []
     },
     {
       "tipo": "passo",
       "titulo": "O que me fez bem?",
       "corpo": "Procure algo concreto: uma conversa, uma caminhada, uma pausa sem tela.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "O que me desgastou?",
       "corpo": "Observe uma situação. Evite resumir a semana inteira a “foi tudo ruim”.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Que cuidado ficou para depois?",
       "corpo": "Um descanso, uma consulta, pedir ajuda ou organizar uma tarefa?",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Escolha apenas uma resposta.",
       "corpo": "Qual delas pode virar uma ação pequena na próxima semana?",
-      "breather": true
+      "breather": true,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Dê lugar a essa ação.",
       "corpo": "Complete: “Vou fazer _____ no dia _____, por _____ minutos”.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Encerre com uma intenção, se desejar.",
       "corpo": "“Nesta semana, quero cultivar _____.” Ela pode acompanhar suas escolhas.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "cta",
       "titulo": "Repita quando fizer sentido.",
       "acao": "Salve estas perguntas para sua próxima revisão da semana.",
-      "sub": "@seres_multidimensionais"
+      "sub": "@seres_multidimensionais",
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": 0,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     }
-  ]
+  ],
+  "g": {
+    "showCorners": true,
+    "corners": {
+      "se": {
+        "on": false,
+        "text": ""
+      },
+      "sd": {
+        "on": true,
+        "text": "{n}/{total}"
+      },
+      "ie": {
+        "on": true,
+        "text": "{handle}"
+      },
+      "id": {
+        "on": false,
+        "text": ""
+      }
+    },
+    "dots": false,
+    "cornerSize": 30,
+    "cornerInset": 96,
+    "cornerOpacity": 100,
+    "cornerGlass": false,
+    "cornerBorder": false,
+    "cornerIcon": "none",
+    "lastDir": "",
+    "lastEsq": "",
+    "lastIcon": "none",
+    "logoUri": null,
+    "logoScope": "none",
+    "logoPos": "none"
+  }
 }

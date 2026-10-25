@@ -18,49 +18,253 @@
       "sub": "10 minutos para cuidar de um canto e formular uma intenção.",
       "bg_uri": "capa-fundo.png",
       "overlayStyle": "topo",
-      "overlayOpacity": 60
+      "overlayOpacity": 85,
+      "fx": {
+        "vpos": "sup",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 88,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.02,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      },
+      "hlT": [],
+      "hlS": []
     },
     {
       "tipo": "passo",
       "titulo": "Escolha só um espaço.",
       "corpo": "Uma mesa, uma prateleira ou a cabeceira. Deixe o resto para outro momento.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Retire o que não pertence ali.",
       "corpo": "Separe o que vai guardar e o que precisa descartar.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Cuide da superfície.",
       "corpo": "Use um produto adequado, conforme o rótulo. Não misture produtos de limpeza.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Escolha um objeto significativo.",
       "corpo": "Pode ser um livro, uma foto ou uma imagem ligada à sua fé. Nada precisa ser comprado.",
-      "breather": true
+      "breather": true,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Faça uma pausa diante desse espaço.",
       "corpo": "Pergunte: “O que quero cultivar aqui?” Descanso, foco, acolhimento…",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "passo",
       "titulo": "Respeite quem divide a casa.",
       "corpo": "Oração silenciosa e organização permitem um ritual sem fumaça nem fragrância.",
-      "breather": false
+      "breather": false,
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": -0.01,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     },
     {
       "tipo": "cta",
       "titulo": "Um canto por vez.",
       "acao": "Salve este passo a passo para quando quiser começar.",
-      "sub": "@seres_multidimensionais"
+      "sub": "@seres_multidimensionais",
+      "fx": {
+        "vpos": "meio",
+        "hpos": "esq",
+        "align": "esq",
+        "glass": false,
+        "card": false,
+        "badge": false,
+        "scale": 100,
+        "gap": 28,
+        "tSize": 76,
+        "tFont": "Fraunces",
+        "tWeight": 800,
+        "tColor": "",
+        "tSpace": 0,
+        "sSize": 39,
+        "sFont": "Karla",
+        "sWeight": 400,
+        "sColor": "",
+        "sSpace": 0,
+        "lh": 1.08
+      }
     }
-  ]
+  ],
+  "g": {
+    "showCorners": true,
+    "corners": {
+      "se": {
+        "on": false,
+        "text": ""
+      },
+      "sd": {
+        "on": true,
+        "text": "{n}/{total}"
+      },
+      "ie": {
+        "on": true,
+        "text": "{handle}"
+      },
+      "id": {
+        "on": false,
+        "text": ""
+      }
+    },
+    "dots": false,
+    "cornerSize": 30,
+    "cornerInset": 96,
+    "cornerOpacity": 100,
+    "cornerGlass": false,
+    "cornerBorder": false,
+    "cornerIcon": "none",
+    "lastDir": "",
+    "lastEsq": "",
+    "lastIcon": "none",
+    "logoUri": null,
+    "logoScope": "none",
+    "logoPos": "none"
+  }
 }

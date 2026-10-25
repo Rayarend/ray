@@ -1,27 +1,39 @@
-# Semana 1 — carrosséis de topo de funil
-7 carrosséis × 8 slides, 28 stories, 7 legendas e 84 prompts completos.
+# Semana 1 — pronta para revisão e publicação
 
-- [Planilha](planejamento-carrosseis.xlsx)
-- [Documento Word](roteiros-e-prompts.docx)
-- [Ler todos os roteiros no GitHub](roteiros-e-prompts.md)
-- [Prompts estruturados](prompts-imagens.json)
-- [Identidade visual](identidade-visual.md)
+7 carrosséis (56 PNGs 1080×1350) e 28 cards de stories (1080×1920). Nenhuma postagem publicada ou agendada.
 
-## Editores
-- [Dia 1](dia-01/carrossel-editor.html)
-- [Dia 2](dia-02/carrossel-editor.html)
-- [Dia 3](dia-03/carrossel-editor.html)
-- [Dia 4](dia-04/carrossel-editor.html)
-- [Dia 5](dia-05/carrossel-editor.html)
-- [Dia 6](dia-06/carrossel-editor.html)
-- [Dia 7](dia-07/carrossel-editor.html)
+## Acesso rápido
 
-Baixe o HTML de cada dia e abra no navegador. O GitHub mostra o código, não executa o editor. O editor Carousel Studio foi fornecido pela skill carrossel-pro; textos estão preenchidos, 7 fundos de capa gerados e incorporados; imagens internas e stories ainda não gerados. Use o editor para ajustes e exportação ZIP. Fontes e bibliotecas dependem de acesso externo. Exportação visual ainda não validada nesta sessão.
+- [Planilha editorial](planejamento-carrosseis.xlsx)
+- [Word com roteiros e prompts](roteiros-e-prompts.docx)
+- [Roteiros legíveis no GitHub](roteiros-e-prompts.md)
+- [PDF para conferir os 56 slides](revisao-carrosseis.pdf)
+- [Pacote com todos os PNGs e legendas](semana-01-publicacao.zip)
 
-As capas A foram escolhidas como propostas para revisão. Alternativas B/C estão na planilha. Nenhuma postagem foi publicada ou agendada. Datas e horários em aberto. Medir resultados em janelas iguais (48h e 7 dias), comparando medianas da própria conta; não existem metas garantidas. Células com zero nas taxas podem indicar dados ainda não preenchidos, não resultado medido.
+## Escolha o dia
 
-Pendências: enviar e-book ao Drive, fotos do autor, gerar imagens, escolher datas, depois posts fixados e Reels diários. Este pacote não inclui o e-book ou dados pessoais de clientes.
+- [Dia 1: ver slides e stories](dia-01/README.md)
 
+- [Dia 2: ver slides e stories](dia-02/README.md)
 
-## Capas geradas
-[Ver as sete imagens de capa](capas.md). Fundos sem texto, pessoas fictícias geradas por IA. Textos seguem editáveis. Exportação final e revisão visual do HTML ainda pendentes.
+- [Dia 3: ver slides e stories](dia-03/README.md)
+
+- [Dia 4: ver slides e stories](dia-04/README.md)
+
+- [Dia 5: ver slides e stories](dia-05/README.md)
+
+- [Dia 6: ver slides e stories](dia-06/README.md)
+
+- [Dia 7: ver slides e stories](dia-07/README.md)
+
+## Como publicar
+
+Baixe o ZIP do dia, extraia os arquivos e selecione os PNGs em ordem numérica. Use a legenda.txt correspondente. Publique os stories em ordem e adicione os stickers de enquete/caixa quando indicados. Datas e horários continuam em aberto.
+
+## Editar
+
+Os editores carrossel-editor.html e stories-editor.html em cada pasta têm o conteúdo preenchido. Baixe e abra no navegador. As exportações entregues foram feitas no Chromium usando o renderizador do Carousel Studio. A checagem automatizada cobriu limites do texto em 84 imagens; inspeção visual realizada em amostras. Não foram validados resultados de publicação no Instagram.
+
+## Organização e pendências
+
+Este material está em conteudo/topo-de-funil, sem reorganizar outros trabalhos. Fotos do autor não foram fornecidas; pessoas nas capas são fictícias geradas por IA. Stories foram finalizados como cards tipográficos. Prompts de fotografias alternativas seguem disponíveis. Enviar e-book ao Drive permanece pendente. Reels e posts fixados são a próxima etapa, após publicar esta série.
