@@ -141,12 +141,12 @@
         "tSize": 76,
         "tFont": "Fraunces",
         "tWeight": 800,
-        "tColor": "",
+        "tColor": "#152D40",
         "tSpace": -0.01,
         "sSize": 39,
         "sFont": "Karla",
         "sWeight": 400,
-        "sColor": "",
+        "sColor": "#152D40",
         "sSpace": 0,
         "lh": 1.08
       }
