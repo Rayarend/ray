@@ -55,3 +55,6 @@ Cards estáticos. Enquetes e caixas precisam ser adicionadas no Instagram; não 
 ### Story 4
 
 ![Story 4](stories-png/stories-04.png)
+## Identidade visual
+
+O logo principal do Seres Multidimensionais foi aplicado ao slide final. [Veja o arquivo e o caminho para reutilização](../../../marca/seres-multidimensionais/README.md). O usuário em texto permanece nos outros slides. A versão transparente teve melhor leitura sobre o azul escuro do que a versão com faixa azul.

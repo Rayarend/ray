@@ -209,7 +209,7 @@
       "tipo": "cta",
       "titulo": "Conhece alguém que precisa dessas frases?",
       "acao": "Compartilhe este carrossel com essa pessoa.",
-      "sub": "@seres_multidimensionais",
+      "sub": "",
       "fx": {
         "vpos": "meio",
         "hpos": "esq",
@@ -263,8 +263,8 @@
     "lastDir": "",
     "lastEsq": "",
     "lastIcon": "none",
-    "logoUri": null,
-    "logoScope": "none",
-    "logoPos": "none"
+    "logoUri": "../../../marca/seres-multidimensionais/logo-principal.png",
+    "logoScope": "last",
+    "logoPos": "se"
   }
 }
