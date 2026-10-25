@@ -10,6 +10,8 @@ Marca: Xamã Pena Azul do Amor. Autor: Ray Arend. Instagram: **@xama.pena.azul.d
 
 ## Logo existente
 
+> **Pendente:** `logos/simbolo.png` e `logos/assinatura.png` ainda não foram enviados ao repositório; as imagens abaixo e no `brand-kit.html` aparecem quebradas até Ray fornecer os arquivos.
+
 ![Símbolo do Xamã](logos/simbolo.png)
 
 - [Símbolo transparente](logos/simbolo.png): PNG 500×500, penas azuis, medalhão dourado e flor da vida. Cópia sem redesenho.
