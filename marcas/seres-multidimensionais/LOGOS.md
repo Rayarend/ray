@@ -9,3 +9,5 @@ Alternativa: `marcas/seres-multidimensionais/logo-alternativo-escuro.png`, corre
 Aplicação: usar o logo principal em tamanho legível no último slide ou em materiais de apresentação. Nos slides internos, manter a assinatura textual `@seres_multidimensionais` para dar espaço ao conteúdo. O nome exibido no logo é `@Seres_Multidimensionais`; no Instagram, maiúsculas e minúsculas não alteram o perfil. Confirmar a grafia do usuário ao publicar se ela mudar.
 
 O primeiro editor contém o logo embutido para funcionar como HTML independente. O `slides.json` usa o caminho relativo `../../../marcas/seres-multidimensionais/logo-principal.png`. Se mover o JSON para outra pasta, ajuste esse caminho. A imagem do usuário não foi recriada por IA.
+
+Em 26/10/2026, Ray escolheu manter o logo original, inclusive o círculo azul com marca de seleção. Esse elemento gráfico não foi usado como afirmação de que a conta é verificada.

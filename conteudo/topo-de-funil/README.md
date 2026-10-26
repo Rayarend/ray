@@ -1,6 +1,8 @@
-# Semana 1 — pronta para revisão e publicação
+# Semana 1 — revisão visual de 26/10/2026
 
 7 carrosséis (56 PNGs 1080×1350) e 28 cards de stories (1080×1920). Nenhuma postagem publicada ou agendada.
+
+As capas dos dias 2 e 6 agora são tipográficas em fundo creme, para variar a sequência. Nas capas com fotografia, a assinatura ganhou um fundo azul discreto para manter a leitura. O logo original de Seres permanece nos fechamentos por escolha de Ray. Estas alterações não mudam os textos nem os CTAs.
 
 ## Acesso rápido
 
