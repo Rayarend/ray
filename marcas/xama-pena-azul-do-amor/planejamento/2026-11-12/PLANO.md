@@ -14,4 +14,4 @@
 - 68 dias com 4 quadros: gancho de curiosidade com rosto ou mãos no primeiro; CTA de DM ou [LINK via link-builder] no último.
 - Rotação em ciclo de oito dias: enquete, caixa de pergunta, quiz, slider de emoji, bastidor/rosto, contagem regressiva para o post do dia, repost comentado do feed e depoimento autoral sem dado de cliente. Sem formato em dias seguidos; cada esqueleto aparece no máximo uma vez por semana.
 - Responder manualmente apenas a quem interagir; palavra-chave por iniciativa da pessoa. Configurar a contagem com o horário aprovado. Repost sempre acompanhado de comentário.
-- CORTES: desapego, término e limites; ALIVIO: pausa e cuidado emocional; ALMAGEMEA: vínculo, reciprocidade e encontro.
+- CORTE: desapego, término e limites; ALIVIO: pausa e cuidado emocional; ALMAGEMEA: vínculo, reciprocidade e encontro.

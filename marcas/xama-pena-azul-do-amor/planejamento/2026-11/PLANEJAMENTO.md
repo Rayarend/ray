@@ -170,7 +170,7 @@ As estruturas, responsáveis e dependências por dia estão em [CALENDARIO.csv](
 ### Começo hoje,25/10
 
 1. Conferir se alma-eternidade já foi publicado; há arquivo pronto, mas não comprovação de postagem.
-2. Revisar as oito lâminas. A versão existente mistura envio e comentário CORTES; a nova proposta deve ter um único destino coerente com Chamado.
+2. Revisar as oito lâminas. A versão existente mistura envio e comentário CORTE; a nova proposta deve ter um único destino coerente com Chamado.
 3. Ray aprovar copy e CTA; então disponibilizar a peça ao responsável pela publicação.
 4. Publicar uma caixa de perguntas nos Stories como pesquisa editorial, se houver disponibilidade.
 5. Separar gravações de acolhimento e apresentação do Chamado para a primeira semana.
@@ -225,7 +225,7 @@ Em cada rede, trocar nome da origem e ID da peça. O número precisa ser reconfi
 
 **Rastreamento planejado:** utm_source por rede; utm_medium=organic; campanha separada por oferta/mês, por exemplo xama-cortes-frio-202611 ou xama-chamado-frio-202611; posição/peça em utm_content. Links únicos em Stories podem identificar a peça. Um link fixo de bio identifica o canal/posição, mas **não identifica com segurança cada Reel**. Não distribuir crédito de venda entre posts por suposição.
 
-Os documentos divergem entre CORTE/CORTES e ALMA/ALMAGEMEA; o material do Drive usa CORTES/ALMAGEMEA/ALIVIO. Este calendário usa destino explícito de site ou WhatsApp nas peças comerciais, sem depender de automação de palavra-chave. Se o fluxo por comentário for retomado, validar gatilho, entrega e destino antes.
+Os documentos divergem entre CORTE/CORTE e ALMA/ALMAGEMEA; o material do Drive usa CORTE/ALMAGEMEA/ALIVIO. Este calendário usa destino explícito de site ou WhatsApp nas peças comerciais, sem depender de automação de palavra-chave. Se o fluxo por comentário for retomado, validar gatilho, entrega e destino antes.
 
 ## 10. Medição, testes e decisão semanal
 

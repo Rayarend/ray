@@ -25,7 +25,7 @@ São **16 Reels e 11 carrosséis**, com Stories diários. Vídeos serão prepara
 | Identidade visual | aqui, em `brand-kit/` |
 | Estratégia, persona, voz, hashtags/CTAs | pasta privada local da conta |
 | Auditorias da conta e pesquisa de concorrentes | pasta privada local da conta |
-| Legendas dos reels semanais (CORTES / ALIVIO / ALMAGEMEA) | pasta privada de reels, por semana |
+| Legendas dos reels semanais (CORTE / ALIVIO / ALMAGEMEA) | pasta privada de reels, por semana |
 | Funil Cortes Energéticos e Chamado da Alma Gêmea | pacote privado de ofertas |
 | Mídia final (Stories, Posts, Reels, Criativos) | Drive "Postagem Instagram / Xama" |
 
