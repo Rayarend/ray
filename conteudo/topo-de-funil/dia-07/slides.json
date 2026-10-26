@@ -209,7 +209,7 @@
       "tipo": "cta",
       "titulo": "Repita quando fizer sentido.",
       "acao": "Salve estas perguntas para sua próxima revisão da semana.",
-      "sub": "@seres_multidimensionais",
+      "sub": "",
       "fx": {
         "vpos": "meio",
         "hpos": "esq",
@@ -263,8 +263,8 @@
     "lastDir": "",
     "lastEsq": "",
     "lastIcon": "none",
-    "logoUri": null,
-    "logoScope": "none",
-    "logoPos": "none"
+    "logoUri": "../../../marcas/seres-multidimensionais/logo-principal.png",
+    "logoScope": "last",
+    "logoPos": "se"
   }
 }

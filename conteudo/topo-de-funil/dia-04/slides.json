@@ -209,7 +209,7 @@
       "tipo": "cta",
       "titulo": "Este lembrete pode acolher alguém.",
       "acao": "Compartilhe com cuidado, sem cobrar uma decisão.",
-      "sub": "@seres_multidimensionais",
+      "sub": "",
       "fx": {
         "vpos": "meio",
         "hpos": "esq",
@@ -263,8 +263,8 @@
     "lastDir": "",
     "lastEsq": "",
     "lastIcon": "none",
-    "logoUri": null,
-    "logoScope": "none",
-    "logoPos": "none"
+    "logoUri": "../../../marcas/seres-multidimensionais/logo-principal.png",
+    "logoScope": "last",
+    "logoPos": "se"
   }
 }

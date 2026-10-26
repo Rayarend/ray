@@ -209,7 +209,7 @@
       "tipo": "cta",
       "titulo": "Um lembrete para guardar por perto.",
       "acao": "Compartilhe com alguém que acolheria estas palavras.",
-      "sub": "@seres_multidimensionais",
+      "sub": "",
       "fx": {
         "vpos": "meio",
         "hpos": "esq",
@@ -263,8 +263,8 @@
     "lastDir": "",
     "lastEsq": "",
     "lastIcon": "none",
-    "logoUri": null,
-    "logoScope": "none",
-    "logoPos": "none"
+    "logoUri": "../../../marcas/seres-multidimensionais/logo-principal.png",
+    "logoScope": "last",
+    "logoPos": "se"
   }
 }

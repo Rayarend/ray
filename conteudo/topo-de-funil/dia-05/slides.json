@@ -209,7 +209,7 @@
       "tipo": "cta",
       "titulo": "Um canto por vez.",
       "acao": "Salve este passo a passo para quando quiser começar.",
-      "sub": "@seres_multidimensionais",
+      "sub": "",
       "fx": {
         "vpos": "meio",
         "hpos": "esq",
@@ -263,8 +263,8 @@
     "lastDir": "",
     "lastEsq": "",
     "lastIcon": "none",
-    "logoUri": null,
-    "logoScope": "none",
-    "logoPos": "none"
+    "logoUri": "../../../marcas/seres-multidimensionais/logo-principal.png",
+    "logoScope": "last",
+    "logoPos": "se"
   }
 }

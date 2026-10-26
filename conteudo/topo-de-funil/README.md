@@ -37,3 +37,7 @@ Os editores carrossel-editor.html e stories-editor.html em cada pasta têm o con
 ## Organização e pendências
 
 Este material está em conteudo/topo-de-funil, sem reorganizar outros trabalhos. Fotos do autor não foram fornecidas; pessoas nas capas são fictícias geradas por IA. Stories foram finalizados como cards tipográficos. Prompts de fotografias alternativas seguem disponíveis. Enviar e-book ao Drive permanece pendente. Reels e posts fixados são a próxima etapa, após publicar esta série.
+
+## Marca e logo
+
+Esta série pertence exclusivamente a **Seres Multidimensionais** (`marca_id: seres-multidimensionais`, Instagram `@seres_multidimensionais`). O logo principal de Seres aparece no último slide de cada carrossel. O Xamã Pena Azul do Amor usa outro perfil, outro brand kit e outro planejamento; nenhum logo do Xamã foi aplicado aqui. O tema de encerramento de ciclos do dia 4 pode inspirar outra peça para Xamã, que exigirá criação e aprovação próprias.

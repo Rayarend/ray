@@ -10,3 +10,6 @@ Identidade documentada: azul #152D40, creme #F7F3EB, apoio #C1CED8, dourado #D4B
 
 
 [Logo principal, comparação e caminhos](LOGOS.md).
+
+
+Os sete carrosséis agora usam o logo principal de Seres no slide final. [Arquivo e regra de uso](LOGOS.md). O tema de encerramento de ciclos continua nesta série de Seres.
