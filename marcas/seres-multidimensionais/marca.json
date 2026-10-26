@@ -12,12 +12,17 @@
     },
     "facebook": {
       "url": null,
-      "estado": "a_identificar"
+      "estado": "pendente_confirmar"
     },
     "tiktok": {
       "url": null,
-      "estado": "a_confirmar"
+      "estado": "pendente_confirmar"
     }
   },
-  "nota": "Os sete carrosséis existentes permanecem desta marca por decisão de Ray."
+  "nota": "Os sete carrosséis existentes permanecem desta marca por decisão de Ray.",
+  "arquivos": {
+    "planejamento": "planejamento/2026-11/PLANEJAMENTO.md",
+    "calendario": "planejamento/2026-11/CALENDARIO.csv",
+    "tokens": "brand-kit/tokens.json"
+  }
 }
