@@ -4,7 +4,7 @@ Consulta: 26/10/2026. Os grupos são opções editoriais, não estimativas de al
 
 ## Nicho estreito (10)
 
-#divorcioenergetico #corteenergetico #cortesenergeticos #cordaoenergetico #limpezaenergetica #lacosenergeticos #reikixamanico #xamapenaazul #chamagemea #almagemea
+#divorcioenergetico #corteenergetico #cortesenergeticos #cordaoenergetico #limpezaenergetica #lacosenergeticos #reikixamanico #xamapenaazul #almagemea
 
 Fonte: [banco da marca](../../../docs/instagram/xama/hashtags-ctas.md), consultado em 26/10/2026. `#cordaoenergetico`, `#lacosenergeticos` e `#xamapenaazul` são variações editoriais sugeridas, sem volume validado. Referência pública complementar: [TagsFinder — Reiki](https://www.tagsfinder.com/pt-br/similar/reiki/), consultado em 26/10/2026.
 

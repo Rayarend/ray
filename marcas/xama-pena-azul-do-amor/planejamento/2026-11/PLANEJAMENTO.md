@@ -225,7 +225,7 @@ Em cada rede, trocar nome da origem e ID da peça. O número precisa ser reconfi
 
 **Rastreamento planejado:** utm_source por rede; utm_medium=organic; campanha separada por oferta/mês, por exemplo xama-cortes-frio-202611 ou xama-chamado-frio-202611; posição/peça em utm_content. Links únicos em Stories podem identificar a peça. Um link fixo de bio identifica o canal/posição, mas **não identifica com segurança cada Reel**. Não distribuir crédito de venda entre posts por suposição.
 
-Os documentos divergem entre CORTE/CORTES e ALMA/CHAMAGEMEA; o material do Drive usa CORTES/CHAMAGEMEA/ALIVIO. Este calendário usa destino explícito de site ou WhatsApp nas peças comerciais, sem depender de automação de palavra-chave. Se o fluxo por comentário for retomado, validar gatilho, entrega e destino antes.
+Os documentos divergem entre CORTE/CORTES e ALMA/ALMAGEMEA; o material do Drive usa CORTES/ALMAGEMEA/ALIVIO. Este calendário usa destino explícito de site ou WhatsApp nas peças comerciais, sem depender de automação de palavra-chave. Se o fluxo por comentário for retomado, validar gatilho, entrega e destino antes.
 
 ## 10. Medição, testes e decisão semanal
 
