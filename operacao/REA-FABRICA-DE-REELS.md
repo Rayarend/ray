@@ -20,6 +20,21 @@
 
 Os Termos restringem engenharia reversa do serviço. Este documento usa somente a interface pública e descreve uma implementação **original**; não examina o aplicativo autenticado, sua API privada ou seu código.
 
+## Decomposição funcional pelo método REA
+
+Os rótulos abaixo descrevem **o que a página apresenta**, não um teste do editor autenticado. A coluna “regra do nosso módulo” é uma decisão de projeto de Ray, não uma descoberta sobre a implementação da Fábrica.
+
+| Jornada e evidência | Entrada pública aparente | Regra do nosso módulo | Saída e exceção a testar | Responsável |
+| --- | --- | --- | --- | --- |
+| Enviar vídeos — Como Funciona/FAQ | Até 50 arquivos por lote | Verificar tipo, tamanho, duração, integridade e direito de uso por item; fixar `marca_id` no lote | Itens aceitos com miniatura; item inválido recebe erro sem perder os demais | Interface valida cedo; worker confirma mídia |
+| Aplicar preset — Recursos | Título, overlay, zoom/corte e perfil | Preset versionado por marca; alterações globais afetam só itens sem exceção individual | Prévia por vídeo; erro claro se logo/fonte faltar | Editor e serviço de prévia |
+| Ajustar 1X — Recursos/FAQ | Seleção de um vídeo da fila | Salvar sobrescrita por `item_id`, preservando preset e outros itens | Prévia comparativa; desfazer volta ao valor do lote | Editor |
+| Legendar — Como Funciona/Planos | Vídeo com fala e opção IA | Transcrição vira rascunho; palavras e tempos exigem revisão | Legenda corrigida; sem fala ou falha do motor mantém vídeo sem legenda automática | Adaptador de transcrição e Ray/revisor |
+| Processar Todos — Como Funciona/FAQ | Lote validado e configurações | Criar trabalho único por item/versão; limitar concorrência e registrar tentativas | MP4 e relatório por item; falha isolada e resultado incerto não causam duplicação | n8n coordena; worker renderiza |
+| Baixar ZIP — Recursos/Como Funciona | Itens encerrados | Empacotar somente arquivos cuja integridade foi verificada, com manifesto de falhas | ZIP e MP4 individuais; espaço insuficiente gera erro recuperável | Serviço de empacotamento |
+
+**Limite da análise:** upload, preset, transcrição, processamento e download dentro da conta continuam **não verificados**. Para validá-los empiricamente seria necessário um teste autorizado com mídia própria; nenhuma API privada foi inferida da página. Publicação social não aparece como função demonstrada.
+
 ## Jornada própria proposta
 
 1. Criar `lote_id` e escolher uma única `marca_id`. Vincular até 50 **vídeos próprios ou licenciados**; guardar fonte, duração, proporção, áudio e direito de uso. Limite de 50 é referência de UX, ajustável após medir infraestrutura.
@@ -52,6 +67,10 @@ O **n8n coordena** eventos e estados; render pesado roda em worker separado, com
 Estados do lote: `rascunho → validando → pronto → renderizando → concluido_parcial|concluido|falha`. Estados por item: `recebido → validado → previsualizado → renderizando → aguardando_qc → aprovado_tecnicamente|falha`. Aprovação técnica do arquivo **não** é aprovação editorial para publicar.
 
 Dados mínimos: `lote_id`, `marca_id`, `preset_id`, `preset_versao`, `item_id`, `source_uri`, `source_sha256`, `direitos_uso`, `roteiro_id`, `titulo`, `legenda_texto`, `legenda_revisada`, `crop_por_item`, `output_uri`, `output_sha256`, `duracao_ms`, `largura`, `altura`, `codec`, `estado`, `erro`, `tentativas`, `criado_em`, `atualizado_em`. O preset e o vídeo original ficam versionados; repetir o mesmo trabalho usa chave `(item_id, preset_versao, roteiro_id)` e não duplica arquivo silenciosamente.
+
+**Contrato entre n8n e worker (proposto):** n8n entrega `job_id`, `lote_id`, `item_id`, `marca_id`, URI do original, SHA-256 esperado, versão do preset e URI de saída. O worker devolve `job_id`, estado (`concluido`/`falha`), URI do MP4, SHA-256 final, duração, codec e erro estruturado. Uma resposta sem `job_id` correspondente ou com hash divergente não avança o item. O callback deve ser autenticado e repetível com segurança; nenhum endereço ou credencial é definido neste estudo.
+
+**Separação de permissões:** Ray/revisor aprova copy e destino editorial; operador de mídia pode editar e renderizar, mas não aprovar publicação; worker só lê originais autorizados e grava resultados do lote. O módulo de postagem recebe apenas MP4 final e metadados após revisão, mantendo sua própria aprovação por canal e versão.
 
 ## Prioridade e critérios de aceite
 
